@@ -59,3 +59,8 @@ This will also install NumPy as dependency.
 .. _`MinHash LSH`: https://ekzhu.github.io/datasketch/lsh.html
 .. _`MinHash LSH Forest`: https://ekzhu.github.io/datasketch/lshforest.html
 .. _`MinHash LSH Ensemble`: https://ekzhu.github.io/datasketch/lshensemble.html
+
+
+
+### does this work well on PySpark? 
+need to check.
